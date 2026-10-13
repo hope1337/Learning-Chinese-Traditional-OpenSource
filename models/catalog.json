@@ -1,0 +1,23 @@
+{
+  "format": 1,
+  "roles": ["ocr", "translation"],
+  "models": [
+    {
+      "id": "mlkit-chinese-fast",
+      "role": "ocr",
+      "displayName": "ML Kit Chinese (bundled, fast)",
+      "status": "bundled",
+      "license": "Google ML Kit Terms",
+      "source": "https://developers.google.com/ml-kit/vision/text-recognition/chinese"
+    },
+    {
+      "id": "paddle-ppocrv5-mobile",
+      "role": "ocr",
+      "displayName": "Paddle PP-OCRv5 mobile (ONNX, accurate)",
+      "status": "reference",
+      "license": "Apache-2.0 (model) — verify before bundling weights",
+      "source": "https://github.com/PaddlePaddle/PaddleOCR",
+      "manifest": "models/ocr/paddle-ppocrv5-mobile/manifest.json"
+    }
+  ]
+}

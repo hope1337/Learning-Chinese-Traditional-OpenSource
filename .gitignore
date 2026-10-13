@@ -1,0 +1,36 @@
+# Android
+*.iml
+.idea/
+.gradle/
+build/
+local.properties
+*.ap_
+*.aab
+*.apk
+
+# MOE reference bytes are fetched on the PC and bundled at build time, never committed.
+app/src/main/assets/dictionary/*.db
+app/src/main/assets/dictionary/*.jsonl
+app/src/main/assets/stroke_order/U+*.json
+app/src/main/assets/stroke_order/originals/
+tools/data/
+*.apkg
+
+# Model weights are downloaded on demand or bundled at release time, never committed.
+*.onnx
+*.bin
+*.gguf
+*.mnn
+*.weight
+app/src/main/assets/models/
+app/src/main/jniLibs/
+
+# Python
+__pycache__/
+.venv/
+.translation-venv/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,2 @@
+sample-01.png	禁止停車
+sample-02.png	捷運入口

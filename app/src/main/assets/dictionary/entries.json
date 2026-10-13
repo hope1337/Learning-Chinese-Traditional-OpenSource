@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "source": "MOE_TAIWAN seed sample (starter subset; full import via tools/fetch_moe.py)",
+  "license": "CC BY-NC-ND 3.0 Taiwan",
+  "entries": [
+    {"headword": "禁", "pinyin": "jìn", "meaning": "to prohibit; to forbid", "hanViet": "cấm"},
+    {"headword": "止", "pinyin": "zhǐ", "meaning": "to stop; to cease", "hanViet": "chỉ"},
+    {"headword": "禁止", "pinyin": "jìnzhǐ", "meaning": "to prohibit; prohibition", "hanViet": "cấm chỉ"},
+    {"headword": "停", "pinyin": "tíng", "meaning": "to stop; to park", "hanViet": "đình"},
+    {"headword": "車", "pinyin": "chē", "meaning": "vehicle; car", "hanViet": "xa"},
+    {"headword": "停車", "pinyin": "tíngchē", "meaning": "to park a vehicle", "hanViet": "đình xa"},
+    {"headword": "捷運", "pinyin": "jiéyùn", "meaning": "MRT; metro (Taiwan)", "hanViet": "tiệp vận"},
+    {"headword": "入口", "pinyin": "rùkǒu", "meaning": "entrance", "hanViet": "nhập khẩu"},
+    {"headword": "小心", "pinyin": "xiǎoxīn", "meaning": "be careful", "hanViet": "tiểu tâm"},
+    {"headword": "地滑", "pinyin": "dì huá", "meaning": "slippery floor", "hanViet": "địa hoạt"},
+    {"headword": "我", "pinyin": "wǒ", "meaning": "I; me", "hanViet": "ngã"},
+    {"headword": "每天", "pinyin": "měitiān", "meaning": "every day", "hanViet": "mỗi thiên"},
+    {"headword": "搭", "pinyin": "dā", "meaning": "to take (transport)", "hanViet": "đ搭"},
+    {"headword": "上班", "pinyin": "shàngbān", "meaning": "to go to work", "hanViet": "thượng ban"},
+    {"headword": "上", "pinyin": "shàng", "meaning": "up; on; to go up", "hanViet": "thượng"},
+    {"headword": "班", "pinyin": "bān", "meaning": "shift; class; squad", "hanViet": "ban"},
+    {"headword": "天", "pinyin": "tiān", "meaning": "day; sky", "hanViet": "thiên"},
+    {"headword": "每", "pinyin": "měi", "meaning": "each; every", "hanViet": "mỗi"},
+    {"headword": "運", "pinyin": "yùn", "meaning": "to transport; fortune", "hanViet": "vận"},
+    {"headword": "捷", "pinyin": "jié", "meaning": "quick; nimble", "hanViet": "tiệp"},
+    {"headword": "口", "pinyin": "kǒu", "meaning": "mouth; opening", "hanViet": "khẩu"},
+    {"headword": "入", "pinyin": "rù", "meaning": "to enter", "hanViet": "nhập"}
+  ]
+}

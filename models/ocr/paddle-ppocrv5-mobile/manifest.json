@@ -1,0 +1,16 @@
+{
+  "id": "paddle-ppocrv5-mobile",
+  "role": "ocr",
+  "displayName": "Paddle PP-OCRv5 mobile (ONNX reference)",
+  "description": "DB text detection + CRNN/CTC recognition, mobile-oriented PP-OCRv5 checkpoints exported to ONNX.",
+  "source": "https://github.com/PaddlePaddle/PaddleOCR",
+  "license": "Apache-2.0 (verify checkpoint license before bundling weights)",
+  "inputs": {
+    "detectionLongSide": 1280,
+    "recognitionHeight": 48
+  },
+  "qualityGates": {
+    "maxCerSample": 0.35
+  },
+  "sha256": {}
+}
